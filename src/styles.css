@@ -1,0 +1,24 @@
+.classComp,
+.funcComp {
+  font-family: sans-serif;
+  background-color: rgb(173, 184, 196);
+  border: seagreen 2px solid;
+  border-radius: 30px;
+}
+
+h1 {
+  margin-top: 3rem;
+}
+
+button {
+  color: red;
+  width: 6rem;
+  margin: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 2rem;
+}
